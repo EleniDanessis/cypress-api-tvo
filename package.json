@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EleniDanessis/cypress-api-tvo/issues"
   },
-  "homepage": "https://github.com/EleniDanessis/cypress-api-tvo#readme"
+  "homepage": "https://github.com/EleniDanessis/cypress-api-tvo#readme",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
 }
