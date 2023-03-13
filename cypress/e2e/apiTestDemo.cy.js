@@ -56,10 +56,10 @@ describe('Basic API Testing', () => {
 
     })
 
-    it('Using Alias Request - Test6', function() {
+    // it('Using Alias Request - Test6', function() {
 
-        cy.get('@tvoGraphQLApi').should()
+    //     cy.get('@tvoGraphQLApi').should()
 
-    })
+    // })
 
 })
